@@ -16,7 +16,7 @@ Putting it in perspective:
 Even the best-performing models deviated from realized prices by 50–63% in absolute terms. Despite relative outperformance over a globally accepted benchmark, forecastability remains elusive.
 
 
-To see the full paper, see a post on my linkedin: [www.linkedin.com/in/yatskovdmitry/](https://www.linkedin.com/feed/update/urn:li:activity:7467137881648709633/)
+To see the full paper, see a post on my linkedin: (https://www.linkedin.com/feed/update/urn:li:activity:7467137881648709633/)
 
 Navigation tips through repository:
 Each of the files contains a Jupiter Notebook with the code and the Excel with the data required for running it.
